@@ -18,6 +18,14 @@ To users：提供SUI全方位科普（SUI特性与生态项目），用通俗的
 
 To investors：提供SUI最新资讯和投研报告，用系统的信息，帮助投资者得出精确判断。
 
+### 联系我们 Contact US:
+
+Twitter: [@SuiWorldHQ](https://twitter.com/SuiWorldHQ)
+
+Medium: [@SuiWorld](https://medium.com/@SuiWorld)
+
+微信公众号: [Sui World](wechat.md)
+
 ## 合作伙伴
 
 ### Developer Communities and DAOs
@@ -118,7 +126,7 @@ To investors：提供SUI最新资讯和投研报告，用系统的信息，帮�
             <image src="./images/projects/proj2.jpg">
         </td>
         <td width=20%>
-            <image src="./images/projects/proj3.png">
+            <image src="./images/projects/proj3.jpg">
         </td>
         <td width=20%>
             <image src="./images/projects/proj4.jpg">
@@ -129,7 +137,7 @@ To investors：提供SUI最新资讯和投研报告，用系统的信息，帮�
     </tr>
 </table>
 
-## 内容资讯
+## [内容资讯](./informations.md)
 
 
 <!--
