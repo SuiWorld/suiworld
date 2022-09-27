@@ -18,6 +18,8 @@ To users：提供SUI全方位科普（SUI特性与生态项目），用通俗的
 
 To investors：提供SUI最新资讯和投研报告，用系统的信息，帮助投资者得出精确判断。
 
+### [内容资讯](./informations.md)
+
 ### 联系我们 Contact US:
 
 Twitter: [@SuiWorldHQ](https://twitter.com/SuiWorldHQ)
@@ -137,7 +139,6 @@ Medium: [@SuiWorld](https://medium.com/@SuiWorld)
     </tr>
 </table>
 
-## [内容资讯](./informations.md)
 
 
 <!--
