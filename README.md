@@ -34,28 +34,20 @@ Medium: [@SuiWorld](https://medium.com/@SuiWorld)
 
 <table border=0>
     <tr>
-        <td width=25%>
+        <td width=20%>
             <image src="./images/developer/movefans.jpg">
         </td>
-        <td width=25%>
+        <td width=20%>
             <image src="./images/developer/moncegeek.png">
         </td>
-        <td width=25%>
-            <image src="./images/developer/rebase.png">
-        </td>
-        <td width=25%>
+        <td width=20%>
             <image src="./images/developer/movedao.png">
         </td>
-    </tr>
-    <tr>
-        <td width=25%>
+        <td width=20%>
             <image src="./images/developer/rust.png">
         </td>
-        <td width=25%>
+        <td width=20%>
             <image src="./images/developer/movebit.png">
-        </td>
-        <td width=25%>
-            <image src="./images/developer/cow.jpg">
         </td>
     </tr>
 </table>
@@ -83,12 +75,6 @@ Medium: [@SuiWorld](https://medium.com/@SuiWorld)
 
 <table border=0>
     <tr>
-        <td width=25%>
-            <image src="./images/research/bixin.jpg">
-        </td>
-        <td width=25%>
-            <image src="./images/research/atcapital.jpg">
-        </td>
         <td width=25%>
             <image src="./images/research/nothing.jpg">
         </td>
